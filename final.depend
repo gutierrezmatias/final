@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1563159596 source:/home/matias/finaltaller/final/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"mosca.h"
+	"personaje.h"
+
+1563158832 source:/home/matias/finaltaller/final/src/mosca.cpp
+	"mosca.h"
+
+1563159467 /home/matias/finaltaller/final/include/mosca.h
+
+1563155490 /home/matias/finaltaller/final/include/personaje.h
+	<string>
+
+1563158860 source:/home/matias/finaltaller/final/src/personaje.cpp
+	"personaje.h"
+
